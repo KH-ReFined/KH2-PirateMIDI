@@ -117,4 +117,4 @@ assets:
   package: kh2_first
   method: copy
   source:
-  - name: bgm/ps2md115.win32.scd
+  - name: bgm/ps2md155.win32.scd
