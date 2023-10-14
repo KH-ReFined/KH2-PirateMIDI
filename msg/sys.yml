@@ -3,9 +3,11 @@
   gr: "Pirat!"
   sp: "Pirata!"
   fr: "Pirate!"
+  it: "Pirata!"
 
 - id: 0x01D2
   en: "All background music will be 'He's a Pirate'!"
   gr: "Alle Hintergrundmusik wird durch die 'He's a Pirate' abgespielt!"
   sp: "Toda música de ambiente será 'He's a Pirate'!"
   fr: "Toute musique de fond sera 'He's a Pirate'!"
+  it: "Tutta la colonna sonora sarà sostituita da 'He's a Pirate'!"
